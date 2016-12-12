@@ -1,0 +1,17 @@
+c:\users\albert\documents\visual studio 2015\Projects\neural.app\neural.app\bin\Debug\neural.app.exe.config
+c:\users\albert\documents\visual studio 2015\Projects\neural.app\neural.app\bin\Debug\neural.app.exe
+c:\users\albert\documents\visual studio 2015\Projects\neural.app\neural.app\bin\Debug\neural.app.pdb
+c:\users\albert\documents\visual studio 2015\Projects\neural.app\neural.app\obj\Debug\neural.app.Properties.Resources.resources
+c:\users\albert\documents\visual studio 2015\Projects\neural.app\neural.app\obj\Debug\neural.app.csproj.GenerateResource.Cache
+c:\users\albert\documents\visual studio 2015\Projects\neural.app\neural.app\obj\Debug\neural.app.exe
+c:\users\albert\documents\visual studio 2015\Projects\neural.app\neural.app\obj\Debug\neural.app.pdb
+C:\Users\Albert\documents\visual studio 2015\Projects\neural.app\neural.app\obj\Debug\neural.app.csprojResolveAssemblyReference.cache
+C:\Users\Albert\documents\visual studio 2015\Projects\neural.app\neural.app\obj\Debug\neural.app.AdditionForm.resources
+C:\Users\Albert\documents\visual studio 2015\Projects\neural.app\neural.app\obj\Debug\neural.app.Interface.resources
+C:\Users\Albert\documents\visual studio 2015\Projects\neural.app\neural.app\bin\Debug\AForge.Video.dll
+C:\Users\Albert\documents\visual studio 2015\Projects\neural.app\neural.app\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Albert\documents\visual studio 2015\Projects\neural.app\neural.app\bin\Debug\AForge.dll
+C:\Users\Albert\documents\visual studio 2015\Projects\neural.app\neural.app\bin\Debug\AForge.xml
+D:\NN\NN\neural.app\neural.app\bin\Debug\neural.app.exe.config
+D:\NN\NN\neural.app\neural.app\obj\Debug\neural.app.exe
+D:\NN\NN\neural.app\neural.app\obj\Debug\neural.app.pdb
